@@ -2,7 +2,7 @@
 <HTML><HEAD>
 <TITLE>500 Internal Server Error</TITLE>
 </HEAD><BODY>
-<img src="Server Error.jpg" width="496" height="361" alt=""/>
+<img src="images/Server Error.jpg" width="496" height="361" alt=""/>
 <H1>Internal Server Error</H1>
 The server encountered an internal error or misconfiguration and was unable to complete your request
 <HR>
