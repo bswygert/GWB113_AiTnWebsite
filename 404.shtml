@@ -2,7 +2,11 @@
 <HTML><HEAD>
 <TITLE>404 Not Found</TITLE>
 </HEAD><BODY>
+<<<<<<< HEAD
 <img src="404 not found.jpg" width="1200" height="630" alt=""/>
+=======
+<img src="images/404 not found.jpg" width="1200" height="630" alt=""/>
+>>>>>>> 43761d0a3579319cfa318ab50f20c99a7041606f
 <H1>Not Found</H1>
 The requested URL <!--#echo var="REQUEST_URI" --> was not found on this server.
 <HR>

@@ -2,7 +2,11 @@
 <HTML><HEAD>
 <TITLE>403 Forbidden</TITLE>
 </HEAD><BODY>
+<<<<<<< HEAD
 <img src="Forbidden.jpg" width="520" height="300" alt=""/>
+=======
+<img src="images/Forbidden.jpg" width="520" height="300" alt=""/>
+>>>>>>> 43761d0a3579319cfa318ab50f20c99a7041606f
 <H1>Forbidden</H1>
 You don't have permission to access <!--#echo var="REQUEST_URI" --> on this server.
 <HR>
