@@ -1,0 +1,26 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Anton|Pacifico|Skranji');
+@font-face {
+		font-family: 'Road Rage';
+		src: url('..fonts/Road_Rage.otf') format('opentype');
+}
+
+p {
+	font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+}
+
+
+h1 {
+	font-family: 'Road Rage'; color: red; 
+	font-size: 40px; 
+}
+
+nav a {
+	font-family: 'Road Rage'; color: red; 
+}
+
+
+
+/*Main CSS Document for My AI Site*/
+
+

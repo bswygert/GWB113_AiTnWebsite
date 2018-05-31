@@ -1,20 +1,22 @@
 @charset "UTF-8";
 @import url('html5doctor-reset.css');
-@import url('https://fonts.googleapis.com/css?family=Anton|Pacifico|Skranji');
-/*CSS Document */
-/*
-font-family: 'Skranji', cursive;
-font-family: 'Anton', sans-serif;
-font-family: 'Pacifico', cursive;
-*/
+@import url('typography.css');
+@import url('nav.css');
+
+
+
+
+/* Main CSS Document for My Ai Website */
 
 body {
-	background-color: cadetblue; 
+	background-color: white; 
 	
 	}
 
 h1 {
-	color: coral; 
-	font-family:  'Anton', sans-serif;
+	color: black; 
+	
 
 	}
+
+header {min-height: 60px}
